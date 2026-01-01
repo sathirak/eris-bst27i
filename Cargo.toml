@@ -1,0 +1,9 @@
+[package]
+name = "eris-bst27i"
+description = "High-fidelity emulator for the BST-27I: A 27-trit balanced ternary RISC architecture."
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+log = "*"
+env_logger = "*"
