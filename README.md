@@ -8,7 +8,7 @@ ERIS BST-27i is a high-fidelity CPU architecture and emulator built on the princ
 
 | Feature             | Specification                       | Comparison (RV32I)               |
 | ------------------- | ----------------------------------- | -------------------------------- |
-| **Logic**           | Balanced Ternary ()                 | Binary ()                        |
+| **Logic**           | Balanced Ternary (-1, 0, 1)                 | Binary (0, 1)                        |
 | **Word Width**      | 27 Trits                            | 32 Bits                          |
 | **GPR Count**       | 27 General Purpose Registers        | 32 Registers                     |
 | **States per Word** | $3^{27} \approx 7.6 \times 10^{12}$ | $2^{32} \approx 4.2 \times 10^9$ |
